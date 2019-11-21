@@ -12,7 +12,7 @@
   }
 
   function showInfo(data, tabletop) {
-    alert('Successfully processed!')
+    alert('Novo teste por aqui')
     console.log(data);
   }
 
